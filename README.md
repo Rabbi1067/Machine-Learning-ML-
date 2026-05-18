@@ -77,6 +77,10 @@ The repository will continuously grow with more advanced AI and ML content over 
 
 ---
 
+🔗 Repository Link
+git clone https://github.com/Rabbi1067/Machine-Learning-ML-.git
+
+
 # 📂 Repository Structure
 
 ```text
@@ -126,5 +130,3 @@ CSE Student • ML Enthusiast • Problem Solver
 If you like this repository, consider giving it a star ⭐
 It motivates future development and improvements.
 
-🔗 Repository Link
-git clone https://github.com/Rabbi1067/Machine-Learning-ML-.git
