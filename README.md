@@ -127,5 +127,4 @@ If you like this repository, consider giving it a star ⭐
 It motivates future development and improvements.
 
 🔗 Repository Link
-
-https://github.com/Rabbi1067/Machine-Learning-ML-
+git clone https://github.com/Rabbi1067/Machine-Learning-ML-.git
