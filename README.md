@@ -17,6 +17,7 @@ The repository will continuously grow with more advanced Machine Learning and AI
 🧠 Current Topics
 
 ✅ Linear Regression
+
 ✅ Logistic Regression
 ✅ Decision Tree
 ✅ Random Forest
