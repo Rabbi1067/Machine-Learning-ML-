@@ -95,6 +95,7 @@ Machine-Learning-ML/
 ├── notebooks/
 ├── utils/
 └── README.md
+
 🚀 Getting Started
 Clone the repository
 git clone https://github.com/Rabbi1067/Machine-Learning-ML-.git
@@ -104,29 +105,28 @@ Install dependencies
 pip install -r requirements.txt
 Run Jupyter Notebook
 jupyter notebook
+
 🎯 Goals
 Build strong ML fundamentals
 Learn through practical implementation
 Explore real-world AI projects
 Share knowledge with the community
 Continuously improve and expand the repository
-🤝 Contributions
 
+🤝 Contributions
 Contributions, ideas, and suggestions are always welcome.
 
 Feel free to:
-
 Fork the repository
 Create new projects
 Improve documentation
 Submit pull requests
-👨‍💻 Author
 
+👨‍💻 Author
 Fazle Rabbi
 CSE Student • ML Enthusiast • Problem Solver
 
 ⭐ Support
-
 If you like this repository, consider giving it a star ⭐
 It motivates future development and improvements.
 
